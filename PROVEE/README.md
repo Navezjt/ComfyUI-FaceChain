@@ -1,0 +1,1 @@
+- https://github.com/THtianhao/ComfyUI-FaceChain
